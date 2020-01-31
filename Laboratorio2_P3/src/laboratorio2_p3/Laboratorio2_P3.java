@@ -33,7 +33,7 @@ public class Laboratorio2_P3 {
 
         Scanner leer = new Scanner(System.in);
 
-        for (int i=0; i<2;i++){
+        for (int i=0; i<10;i++){
             System.out.println("***** BIENVENIDO A LA PLANILLA ******");
             System.out.println("Ingrese Nombre del Empleado: ");
             nombre = leer.next();
